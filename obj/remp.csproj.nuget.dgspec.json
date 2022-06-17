@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj": {}
+    "D:\\Ucatec\\Proyecto\\rempRepository\\remp.csproj": {}
   },
   "projects": {
-    "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj": {
+    "D:\\Ucatec\\Proyecto\\rempRepository\\remp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
+        "projectUniqueName": "D:\\Ucatec\\Proyecto\\rempRepository\\remp.csproj",
         "projectName": "remp",
-        "projectPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
-        "packagesPath": "C:\\Users\\Ronaldo\\.nuget\\packages\\",
-        "outputPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\obj\\",
+        "projectPath": "D:\\Ucatec\\Proyecto\\rempRepository\\remp.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
+        "outputPath": "D:\\Ucatec\\Proyecto\\rempRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\vs community\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ronaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
