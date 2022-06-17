@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
+      "projectUniqueName": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\remp.csproj",
       "projectName": "remp",
-      "projectPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
+      "projectPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\remp.csproj",
       "packagesPath": "C:\\Users\\Ronaldo\\.nuget\\packages\\",
-      "outputPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\obj\\",
+      "outputPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vs community\\Microsoft Visual Studio\\Shared\\NuGetPackages"
