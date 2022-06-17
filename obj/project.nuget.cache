@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+LPirxL+qc2oHkd4X3bD3+nfW16joxCQHSTZ/1xbaJVOLGQx/MwThWTP/ARDmfF80bvolWeMp1vq07Nc/cdgkA==",
+  "dgSpecHash": "5mfyLixwZjS6Foigsf89ej1APNcrf/P4oAX6DXOs+irnHhByoFsdj06cR4ELVJm+xAnhP5ZhhdBYGN2DZUkVxA==",
   "success": true,
   "projectFilePath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\font.awesome\\5.15.4\\font.awesome.5.15.4.nupkg.sha512"
+  ],
   "logs": []
 }
