@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ronaldo\\.nuget\\packages\\": {},
-    "D:\\vs community\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Fenris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
+      "projectUniqueName": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\remp.csproj",
       "projectName": "remp",
-      "projectPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
-      "packagesPath": "C:\\Users\\Ronaldo\\.nuget\\packages\\",
-      "outputPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\obj\\",
+      "projectPath": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\remp.csproj",
+      "packagesPath": "C:\\Users\\Fenris\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\vs community\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ronaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Fenris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
