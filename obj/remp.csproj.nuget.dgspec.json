@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\pruebas\\remp.csproj": {}
+    "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\remp.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\pruebas\\remp.csproj": {
+    "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\remp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\pruebas\\remp.csproj",
+        "projectUniqueName": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\remp.csproj",
         "projectName": "remp",
-        "projectPath": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\pruebas\\remp.csproj",
+        "projectPath": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\remp.csproj",
         "packagesPath": "C:\\Users\\Fenris\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\pruebas\\obj\\",
+        "outputPath": "D:\\Desktop\\Desktop\\UCATEC\\2022\\Semestre 8\\Actualización 1\\Projects\\rempRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fenris\\AppData\\Roaming\\NuGet\\NuGet.Config",
