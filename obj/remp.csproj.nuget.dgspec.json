@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj": {}
+    "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\remp.csproj": {}
   },
   "projects": {
-    "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj": {
+    "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\remp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
+        "projectUniqueName": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\remp.csproj",
         "projectName": "remp",
-        "projectPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\remp.csproj",
+        "projectPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\remp.csproj",
         "packagesPath": "C:\\Users\\Ronaldo\\.nuget\\packages\\",
-        "outputPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Competencia\\rempRepository\\obj\\",
+        "outputPath": "D:\\Extras\\office\\2. Licenciatura\\Actualización I\\Proyecto\\DelRepositorio\\rempRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\vs community\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,22 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "microsoft.entityframeworkcore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

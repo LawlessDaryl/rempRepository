@@ -1,0 +1,41 @@
+@model List<remp.Models.Persona>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <p>@Html.ActionLink("Create New Person record", "Create", "person")</p>
+</div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Telefono</th>
+                <th>Direccion</th>
+
+                <th>Update</th>                
+                <th>Delete</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nombre</td>
+                    <td>@item.Apellido</td>
+                    <td>@item.Telefono</td>
+                    <td>@item.Direccion</td>
+                    
+                    <td>@Html.ActionLink("Update", "Update", new {id=item.Id})</td>                    
+                    <td>@Html.ActionLink("Delete", "Delete", new {id=item.Id})</td>                   
+                </tr>
+            }
+        </tbody>
+    </table>
